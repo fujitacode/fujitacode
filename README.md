@@ -3,7 +3,7 @@
    ## 🛠 技術スタック
 
    - **プログラミング言語**: JavaScript, TypeScript
-   - **フレームワーク**: React, Next.js, Node.js
+   - **フレームワーク**: React, Next.js
    - **ツール**: Git, Docker, AWS
 
    ## 👨‍💻 自己紹介
