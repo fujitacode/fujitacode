@@ -1,16 +1,13 @@
-## Hi there 👋
+   # Fujita's Portfolio
 
-<!--
-**fujitacode/fujitacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   ## 🛠 技術スタック
 
-Here are some ideas to get you started:
+   - **プログラミング言語**: JavaScript, TypeScript, Rust, Python
+   - **フレームワーク**: React, Next.js ,web-actix, tauri, bevy, django
+   - **ツール**: Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   ## 👨‍💻 自己紹介
+
+   - Webフロントエンド開発者
+   - tauriでツール開発
+   - 2dゲームの開発
