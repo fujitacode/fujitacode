@@ -2,7 +2,7 @@
 
    ## 🛠 技術スタック
 
-   - **プログラミング言語**: JavaScript, TypeScript, Rust, Python
+   - **プログラミング言語**: JavaScript/Ts, Rust, Python
    - **フレームワーク**: React, Next.js ,web-actix, tauri, bevy, django
    - **ツール**: Git
 
