@@ -4,7 +4,7 @@
 
    - **プログラミング言語**: JavaScript/Ts, Rust, Python
    - **フレームワーク**: React, Next.js ,web-actix, tauri, bevy, django
-   - **ツール**: Git
+   - **ツール**: Git VSCODE
 
    ## 👨‍💻 自己紹介
 
