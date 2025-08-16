@@ -3,14 +3,13 @@
    ## 🛠 技術スタック
 
    - **プログラミング言語**: JavaScript/Ts, Rust
-   - **フレームワーク**: React, Next.js , tauri, bevy
+   - **フレームワーク**: React, Next.js , tauri
    - **ツール**: Git VSCODE
 
    ## 👨‍💻 自己紹介
 
    - Webフロントエンド開発者
    - tauriでツール開発
-   - 2dゲームの開発
 
    ## ▩ 技術指標
    - Atcoder
