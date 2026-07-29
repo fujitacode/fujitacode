@@ -12,4 +12,3 @@
 
    ## ▩ 技術指標
    - Atcoder
-   - TOEIC
